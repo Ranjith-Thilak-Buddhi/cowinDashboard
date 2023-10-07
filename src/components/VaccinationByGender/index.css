@@ -1,0 +1,15 @@
+.gender-container {
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.gender-heading {
+    margin-top: 15px;
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-bottom: 15px;
+}
